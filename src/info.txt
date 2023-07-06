@@ -1,0 +1,8 @@
+
+
+Name-Surname: Eylül Öziş
+Student Number: 1803634
+
+Resources:
+https://codepen.io/joshnh/pen/kOWrXk
+https://bootsnipp.com/snippets/7nmOW
